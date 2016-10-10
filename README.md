@@ -11,5 +11,3 @@
 ***
 
 ## What is SIG Community anyway ?
-
-==test==
