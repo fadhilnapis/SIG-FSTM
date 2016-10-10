@@ -11,3 +11,5 @@
 ***
 
 ## What is SIG Community anyway ?
+
+SIG is a special interest group created to make FSTM students more productive in this digital world. SIG consist of three main interest branch which is Opensource club, Network Security and Development club.
