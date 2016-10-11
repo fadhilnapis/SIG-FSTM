@@ -9,7 +9,7 @@
 
 `Special Interest Group by FSTM KUIS`
 
-[![Gitter chat](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat)](https://gitter.im/sig-fstm/sig)
+[![Gitter chat](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat)](https://gitter.im/sig-kuis/community)
 
 ***
 
