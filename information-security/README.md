@@ -7,6 +7,7 @@ Information Security
  |
  |__ Computer Forensics
  |       |___ Cryptography
- |
- |__ and more soon
+ |       |___ Steganography
+ |__ Web Security
+ |__ Network Security
 ~~~
