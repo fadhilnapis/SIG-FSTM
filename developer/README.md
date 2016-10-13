@@ -14,7 +14,5 @@ Developer
  |     |___ Bootstrap
  |
  |__ Android
- |     |___ Android Studio
- |
- |__ and more soon
+       |___ Android Studio
 ~~~
