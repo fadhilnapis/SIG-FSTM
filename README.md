@@ -15,8 +15,18 @@
 
 ## What is SIG Community anyway ?
 
-SIG is a special interest group created to make KUIS students more productive in this digital world. SIG consist of three main interest branch which is Open Source club, Network Security and Development club.
+SIG is a special interest group created to make KUIS students 
+  * more productive in this digital world, 
+  * communicate with other coder, 
+  * learn new things faster with the community, 
+  * have a good discussion about techie stuff among communities,
+
+
+The goal is to
+  * increase awarness about it world 
 
 ## ... so what is Open Source ?
 
 The term "open source" refers to something people can modify and share because its design is publicly accessible.
+
+[Here](https://youtu.be/a8fHgx9mE5U) some good animated explaination for Open Source.

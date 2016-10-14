@@ -2,10 +2,10 @@
 
 
 ## Module Structure
-~~~
+```
 Open Source
- |
- |__ Linux
- |
- |__ Raspberry Pi
-~~~
+ │
+ └── Linux
+ │
+ └── Raspberry Pi
+```

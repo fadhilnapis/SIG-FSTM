@@ -2,17 +2,16 @@
 
 
 ## Module Structure
-~~~
+```
 Developer
- |
- |__ Git
- |
- |__ Website
- |     |___ Php
- |     |___ Laravel
- |     |___ Yii
- |     |___ Bootstrap
- |
- |__ Android
-       |___ Android Studio
-~~~
+ │
+ └── Git
+ │
+ └── Website
+ │     └── Php
+ │     └── Laravel
+ │     └── Bootstrap
+ │
+ └── Android
+       └── Android Studio
+```
