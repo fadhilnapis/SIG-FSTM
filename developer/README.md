@@ -5,13 +5,20 @@
 ```
 Developer
  │
- └── Git
+ └── GitHub
  │
- └── Website
- │     └── Php
- │     └── Laravel
- │     └── Bootstrap
+ └── Web Development
+ │     └── Language
+ |     |   - PHP
+ |     |   - JavaScript
+ |     |   - HTML & CSS
+ │     └── Framework
+ |     |   - Laravel
+ |     |   - Bootstrap
+ |     |   - JQuery
+ │     └── Other Resources
  │
- └── Android
+ └── Android Mobile Apps Development
+       |__ Java OOP
        └── Android Studio
 ```
