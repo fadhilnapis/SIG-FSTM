@@ -15,15 +15,15 @@
 
 ## What is SIG Community anyway ?
 
-SIG is a special interest group created to make KUIS students
-  * more productive in this digital world,
-  * communicate with other coder,
+SIG is a Special Interest Group created to make KUIS students (especially FSTM) to be:
+  * More productive in this digital world,
+  * Communicate with other coder,
   * learn new things faster with the community,
-  * have a good discussion about techie stuff among communities,
+  * Have a good discussion about techie stuff among communities,
 
 
 The goal is to
-  * increase awareness about IT world
+  * Increase awareness about IT world
 
 ## ... so what is Open Source ?
 
