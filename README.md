@@ -7,7 +7,7 @@
     |____/___\____|  \____\___/|_| |_| |_|_| |_| |_|\__,_|_| |_|_|\__|\__, |
                                                                       |___/
 
-`Special Interest Group by FSTM KUIS <i>(nope, IceMann, Kaito, Booby tbh :p)</i>`
+`Special Interest Group by FSTM KUIS (really?)`
 
 [![Gitter chat](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat)](https://gitter.im/sig-kuis/community)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
