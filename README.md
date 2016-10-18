@@ -20,7 +20,7 @@ SIG is a Special Interest Group created to make KUIS students (especially FSTM) 
   * More productive in this digital world.
   * Well exposes in IT.
   * Communicate with other coder.
-  * learn new things faster with the community.
+  * Learn new things faster with the community.
   * Have a good discussion about techie stuff among communities.
 
 The goal is to
@@ -33,7 +33,7 @@ SIG divided into three main interest categories:
   * Web and Mobile app Development
   * Information Security
 
-Feel free to choose any three above you are love to learn (kuasai). We are also provide module structure each of three 
+Feel free to choose any three above you are love to learn and master it. We are also provide module structure each of three 
 categories inside the folder.
 
 ## ... So what is Open Source ?
