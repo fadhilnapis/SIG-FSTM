@@ -9,9 +9,9 @@ Developer
  │
  ├── Web Development
  │     ├── Language
- │     │      ├─ PHP
+ │     │      ├─ HTML & CSS
  │     │      ├─ JavaScript
- │     │      └─ HTML & CSS
+ │     │      └─ PHP
  │     ├── Framework
  │     │      ├─ Laravel
  │     │      ├─ Bootstrap
@@ -22,6 +22,10 @@ Developer
  │     └── Other Resources
  │
  └── Android Mobile Apps Development
-       ├── Java OOP
-       └── Android Studio
+       ├── Native
+       │	├─ Java OOP
+       │	└─ Android Studio
+       └── Framework 
+			├─ Electron
+       		└─ Ionic
 ```
