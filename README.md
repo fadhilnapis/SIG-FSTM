@@ -24,7 +24,7 @@ SIG is a Special Interest Group created to make KUIS students (especially FSTM) 
   * Have a good discussion about techie stuff among communities.
 
 The goal is to
-  * Teach KUIS student "How to CREATE".
+  * Teach KUIS student "Learn how to CREATE".
   * Increase awareness about IT world.
   * Love to code and make awesome project.
 
