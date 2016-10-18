@@ -33,7 +33,7 @@ SIG divided into three main interest categories:
   * Web and Mobile app Development
   * Information Security
 
-Feel free to choose any three above you are love to learn and master it. We are also provide module structure each of three 
+Feel free to choose any three above you are love to learn and master try to master it. We are also provide module structure each of three 
 categories inside the folder.
 
 ## ... So what is Open Source ?
