@@ -5,10 +5,10 @@
 ```
 Information Security
  │
- └── Computer Forensics
- │       └── Cryptography
+ ├── Computer Forensics
+ │       ├── Cryptography
  │       └── Steganography
- └── Web Security
+ ├── Web Security
  └── Network Security
          └── OSI Layer vulnerability
 ```

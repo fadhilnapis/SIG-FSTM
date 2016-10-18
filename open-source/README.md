@@ -5,7 +5,7 @@
 ```
 Open Source
  │
- └── Linux
+ ├── Linux
  │
  └── Raspberry Pi
 ```
