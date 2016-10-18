@@ -49,7 +49,6 @@ which is we will not explain here. But check [this](https://youtu.be/Q5763pPchvw
 
 Hazmirul updates here 
 
-
 ## okay .. then, how SIG work?
 
-on my way..
+We will make meetup at night every wednesday at mk6. 

@@ -9,16 +9,16 @@ Developer
  │
  └── Web Development
  │     └── Language
- |     |   - PHP
- |     |   - JavaScript
- |     |   - HTML & CSS
+ │     │   - PHP
+ │     │   - JavaScript
+ │     │   - HTML & CSS
  │     └── Framework
- |     |   - Laravel
- |     |   - Bootstrap
- |     |   - JQuery
+ │     │   - Laravel
+ │     │   - Bootstrap
+ │     │   - JQuery
  │     └── Other Resources
  │
  └── Android Mobile Apps Development
-       |__ Java OOP
+       └── Java OOP
        └── Android Studio
 ```
