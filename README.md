@@ -10,8 +10,7 @@
 `Special Interest Group by FSTM KUIS`
 
 [![Gitter chat](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat)](https://gitter.im/sig-kuis/community)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
-
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ***
 
 ## What is SIG Community anyway ?
