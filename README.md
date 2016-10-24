@@ -1,5 +1,7 @@
 # SIG Community
 
+## Introducing ..
+
      ____ ___ ____    ____                                      _ _         
     / ___|_ _/ ___|  / ___|___  _ __ ___  _ __ ___  _   _ _ __ (_) |_ _   _
     \___ \| | |  _  | |   / _ \| '_ ` _ \| '_ ` _ \| | | | '_ \| | __| | | |
@@ -32,7 +34,7 @@ SIG divided into three main interest categories:
   * Web and Mobile app Development
   * Information Security
 
-Feel free to choose any three above you are love to learn and master try to master it. We are also provide module structure each of three 
+Feel free to choose any three above you are love to learn and master. We are also provide module structure each of three 
 categories inside the folder.
 
 ## ... So what is Open Source ?
@@ -65,5 +67,9 @@ kinds of situation and we'll learn how to prevent these issues.
 
 ## okay .. then, how SIG work?
 
-First we have to sleep all day, and stay up all night with help of a few cups of coffees. and loop through all these process 
-until all your project done.
+**We will make a class once a week every tuesday night, discussing a topic we specify.** To keep what we learned longger, we use 
+github which will save our code into the cloud and recode it perfectly.
+**To keep track our SIG activity in github, we use gitter as a chat platform which we already setup to integerate with SIG github repo.**
+We will also make a training in a certains topic that need to focus more. 
+**Also we will joining outside events that relate to our scope of learning for example JOMLAUNCH, raspberry pi JAM, Startup and Developer Meetup and more.** 
+To test your skill, there are many competitions you can participate.
