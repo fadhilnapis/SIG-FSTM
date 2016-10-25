@@ -17,21 +17,21 @@
 
 ## What is SIG Community anyway ?
 
-SIG is a Special Interest Group created to make KUIS students ..
+**SIG is a Special Interest Group created to make KUIS students ..**
   * More productive in this digital world.
   * Well exposes in IT.
   * Communicate with other coder.
   * Learn new things faster with the community.
   * Have a good discussion about techie stuff among communities.
 
-The goal is to ..
+**The goal is to ..**
   * Teach KUIS student "Learn how to CREATE".
   * Increase awareness about today digital world.
   * Becoming a self-taught programmer.
   * Love to code and make awesome project.
   * Student can compete with outside world.
 
-SIG divided into three main interest categories ..
+**SIG divided into three main interest categories ..**
   * Open Source
   * Web and Mobile app Development
   * Information Security
