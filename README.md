@@ -26,7 +26,7 @@
 
 **The goal is to ..**
   * Teach KUIS student "Learn how to CREATE".
-  * Increase awareness about today digital world.
+  * Increase awareness about today's digital world.
   * Becoming a self-taught programmer.
   * Love to code and make awesome project.
   * Student can compete with outside world.
