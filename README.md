@@ -1,14 +1,27 @@
-# SIG Community
+# Hello SIG!
 
 ## Introducing ..
 
-     ____ ___ ____    ____                                      _ _         
-    / ___|_ _/ ___|  / ___|___  _ __ ___  _ __ ___  _   _ _ __ (_) |_ _   _
-    \___ \| | |  _  | |   / _ \| '_ ` _ \| '_ ` _ \| | | | '_ \| | __| | | |
-     ___) | | |_| | | |__| (_) | | | | | | | | | | | |_| | | | | | |_| |_| |
-    |____/___\____|  \____\___/|_| |_| |_|_| |_| |_|\__,_|_| |_|_|\__|\__, |
-                                                                      |___/
 
+     ____    ______   ____      
+    /\  _`\ /\__  _\ /\  _`\    
+    \ \,\L\_\/_/\ \/ \ \ \L\_\  
+     \/_\__ \  \ \ \  \ \ \L_L  
+       /\ \L\ \ \_\ \__\ \ \/, \
+       \ `\____\/\_____\\ \____/
+        \/_____/\/_____/ \/___/ 
+                            
+                            
+     ____                                                        __                
+    /\  _`\                                                   __/\ \__             
+    \ \ \/\_\    ___     ___ ___     ___ ___   __  __    ___ /\_\ \ ,_\  __  __    
+     \ \ \/_/_  / __`\ /' __` __`\ /' __` __`\/\ \/\ \ /' _ `\/\ \ \ \/ /\ \/\ \   
+      \ \ \L\ \/\ \L\ \/\ \/\ \/\ \/\ \/\ \/\ \ \ \_\ \/\ \/\ \ \ \ \ \_\ \ \_\ \  
+       \ \____/\ \____/\ \_\ \_\ \_\ \_\ \_\ \_\ \____/\ \_\ \_\ \_\ \__\\/`____ \ 
+        \/___/  \/___/  \/_/\/_/\/_/\/_/\/_/\/_/\/___/  \/_/\/_/\/_/\/__/ `/___/> \
+                                                                             /\___/
+                                                                             \/__/ 
+ 
 `Special Interest Group by FSTM KUIS`
 
 [![Gitter chat](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat)](https://gitter.im/sig-kuis/community)
@@ -80,4 +93,4 @@ Also we will joining outside events that relate to our scope of learning for exa
 raspberry pi JAM, Startup and Developer Meetup and more.
 
 You can also participate with outside competition offers by university or company or FSTM itself 
-which will test you skill and knowledge.
+which will test your skill and knowledge.
