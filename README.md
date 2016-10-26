@@ -52,8 +52,8 @@ Anyone who interested to make mobile app development using
 [android studio](https://developer.android.com/studio/index.html) required to know at 
 least the basics of JAVA programming. Of course there is always various methods to create an android app. 
 
-Both mobile apps and web development required two main principles which is frontend and backend. To make it's simple, 
-[here](https://youtu.be/Q5763pPchvw) example of what frontend does. 
+Both mobile apps and web development required two main principles which is front-end and back-end. To make it's simple, 
+[here](https://youtu.be/Q5763pPchvw) example of what front end does. 
  
 So what makes the front end of a website possible? Where is all that data stored? This is where the back end comes in. 
 The back end of a website consists of a server, an application, and a database. A back-end developer builds and maintains 
