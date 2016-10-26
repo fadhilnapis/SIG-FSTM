@@ -20,7 +20,7 @@
 **SIG is a Special Interest Group created to make KUIS students ..**
   * More productive in this digital world.
   * Well exposes in IT.
-  * Communicate with other coder.
+  * Communicate with the other coder.
   * Learn new things faster with the community.
   * Have a good discussion about techie stuff among communities.
 
@@ -28,7 +28,7 @@
   * Teach KUIS student "Learn how to CREATE".
   * Increase awareness about today's digital world.
   * Becoming a self-taught programmer.
-  * Love to code and make awesome project.
+  * Love to code and make an awesome project.
   * Student can compete with outside world.
 
 **SIG divided into three main interest categories ..**
@@ -36,23 +36,23 @@
   * Web and Mobile app Development
   * Information Security
 
-Feel free to choose any three above you are love to learn and master. We are also provide module structure each of three 
+Feel free to choose any three above you are love to learn and master. We also provide module structure each of three 
 categories inside the folder.
 
 ## ... So what is Open Source ?
 
 The term "Open Source" refers to something people can modify and share because its design is to publicly accessible.
 
-[Here](https://youtu.be/a8fHgx9mE5U) some good animated explaination about Open Source.
+[Here](https://youtu.be/a8fHgx9mE5U) some good animated explanation about Open Source.
 
 ## ... What about Developer?
 
 There will be two types of projects we are working on soon, web and mobile app. 
 Anyone who interested to make mobile app development using 
-[android studio](https://developer.android.com/studio/index.html) required to know at 
-least the basics of JAVA programming. Of course there is always various methods to create an android app. 
+[android studio](https://developer.android.com/studio/index.html) required knowing at 
+least the basics of JAVA programming. Of course, there is always various methods to create an android app. 
 
-Both mobile apps and web development required two main principles which is front-end and back-end. To make it's simple, 
+Both mobile apps and web development required two main principles which are front-end and back-end. To make it's simple, 
 [here](https://youtu.be/Q5763pPchvw) example of what front end does. 
  
 So what makes the front end of a website possible? Where is all that data stored? This is where the back end comes in. 
@@ -70,14 +70,14 @@ kinds of situation and we'll learn how to prevent these issues.
 ## okay .. then, how SIG work?
 
 We will make a class once a week every tuesday night, discussing a topic we specify. 
-To keep what we learned longger, we use 
-github which will save our code into the cloud and recode it perfectly.
+To keep what we learned longer, we use 
+Github which will save our code into the cloud and recode it perfectly.
 
-To keep track our SIG activity in github, we use gitter as a chat platform which we already setup to integerate with SIG github repo.
-We will also make a training in a certains topic that need to focus more. 
+To keep track our SIG activity in Github, we use Gitter as a chat platform which we already setup to integrate with SIG Github repo.
+We will also make a training in certain topics that need to focus more. 
 
-Also we will joining outside events that relate to our scope of learning for example JOMLAUNCH, 
+Also, we will be joining outside events that relate to our scope of learning for example JOMLAUNCH, 
 raspberry pi JAM, Startup and Developer Meetup and more.
 
-You can also participate with outside competition offers by university or company or FSTM itself 
+You can also participate in outside competition offers by university or company or FSTM itself 
 which will test your skill and knowledge.
