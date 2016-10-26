@@ -29,3 +29,5 @@ Developer
 			├─ Electron
        		└─ Ionic
 ```
+
+> This module structure will be keep up to date regularly

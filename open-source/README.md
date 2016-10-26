@@ -9,3 +9,5 @@ Open Source
  │
  └── Raspberry Pi
 ```
+
+> This module structure will be keep up to date regularly
