@@ -32,9 +32,9 @@
   * Student can compete with outside world.
 
 **SIG divided into three main interest categories ..**
-  * Open Source
-  * Web and Mobile app Development
-  * Information Security
+  * [Open Source](https://github.com/norFarhan/SIG-FSTM/tree/master/open-source)
+  * [Web and Mobile app Development](https://github.com/norFarhan/SIG-FSTM/tree/master/developer)
+  * [Information Security](https://github.com/norFarhan/SIG-FSTM/tree/master/information-security)
 
 Feel free to choose any three above you are love to learn and master. We also provide module structure each of three 
 categories inside the folder.
