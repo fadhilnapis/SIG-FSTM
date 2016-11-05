@@ -11,7 +11,6 @@
 
 `Special Interest Group by FSTM KUIS`
 
-[![Gitter chat](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat)](https://gitter.im/sig-kuis/community)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ***
 
@@ -73,7 +72,7 @@ We will make a class once a week every tuesday night, discussing a topic we spec
 To keep what we learned longer, we use 
 Github which will save our code into the cloud and recode it perfectly.
 
-To keep track our SIG activity in Github, we use Gitter as a chat platform which we already setup to integrate with SIG Github repo.
+To keep track our SIG activity in Github, we use Slack as a chat platform which we already setup to integrate with SIG Github repo.
 We will also make a training in certain topics that need to focus more. 
 
 Also, we will be joining outside events that relate to our scope of learning for example JOMLAUNCH, 
