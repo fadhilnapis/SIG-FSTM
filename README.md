@@ -42,7 +42,7 @@ categories inside the folder.
 
 The term "Open Source" refers to something people can modify and share because its design is to publicly accessible.
 
-[Here](https://youtu.be/a8fHgx9mE5U) some good animated explanation about Open Source.
+[Here](https://youtu.be/a8fHgx9mE5U) some animated explanation about Open Source.
 
 ## ... What about Developer?
 
@@ -62,7 +62,7 @@ the first place.
 ## Information Security... ?
 
 Information security is an interest module that focusing on security issues and learn about how it works and how to prevent 
-it. In this module, we exposing students about the basics of security guidelines. As the time goes by, we'll be get 
+it. In this module, we exposing students about the basics of security guidelines. As the time goes by, we'll get 
 further into it. In this module also shows the demonstration how an attack or a hacking process works in different 
 kinds of situation and we'll learn how to prevent these issues.
 
@@ -76,7 +76,7 @@ To keep track our SIG activity in Github, we use Slack as a chat platform which 
 We will also make a training in certain topics that need to focus more. 
 
 Also, we will be joining outside events that relate to our scope of learning for example JomLaunch, 
-raspberry pi JAM, Startup and Developer Meetup and many more.
+raspberry pi JAM, Startup and Developer Meetup and much more.
 
 You can also participate in outside competition offers by university or company or FSTM itself 
 which will test your skill and knowledge.
