@@ -23,8 +23,7 @@ Developer
  │
  └── Android Mobile Apps Development
        ├── Native
-       │	├─ Java OOP
-       │	└─ Android Studio
+       │	└─ Java OOP
        └── Framework 
 			├─ Electron
        		└─ Ionic
