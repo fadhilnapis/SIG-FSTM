@@ -75,7 +75,7 @@ Github which will save our code into the cloud and recode it perfectly.
 To keep track our SIG activity in Github, we use Slack as a chat platform which we already setup to integrate with SIG Github repo.
 We will also make a training in certain topics that need to focus more. 
 
-Also, we will be joining outside events that relate to our scope of learning for example JOMLAUNCH, 
+Also, we will be joining outside events that relate to our scope of learning for example JomLaunch, 
 raspberry pi JAM, Startup and Developer Meetup and more.
 
 You can also participate in outside competition offers by university or company or FSTM itself 
