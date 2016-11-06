@@ -40,7 +40,7 @@ categories inside the folder.
 
 ## ... So what is Open Source ?
 
-The term "Open Source" refers to something people can modify and share because its design is to publicly accessible.
+The term "Open Source" refers to something people can modify and share because its design is to publicly accessible. Open source is distributed with a license that allow other developer to modify it or add it. Some example of open source software are [Wordpress](https://wordpress.com/), [Ubuntu](https://www.ubuntu.com/), [MySQL](http://dev.mysql.com/) and many more.
 
 [Here](https://youtu.be/a8fHgx9mE5U) some animated explanation about Open Source.
 
