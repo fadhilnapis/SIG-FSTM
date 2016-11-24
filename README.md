@@ -11,7 +11,9 @@
 
 `Special Interest Group by FSTM KUIS`
 
-![Python](https://img.shields.io/pypi/pyversions/Django.svg) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![Python](https://img.shields.io/pypi/pyversions/Django.svg)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ***
 
 ## What is SIG Community anyway ?
@@ -80,3 +82,10 @@ raspberry pi JAM, Startup and Developer Meetup and much more.
 
 You can also participate in outside competition offers by university or company or FSTM itself 
 which will test your skill and knowledge.
+
+## SiG intro slide
+
+- https://docs.google.com/presentation/d/19xVpHT_zOSKJvF0I7yaFkFjstR8i4o1CEn9VH7dMYeQ/edit?usp=sharing
+- https://docs.google.com/presentation/d/1VKF3NNKgAJrj5di9husdVQDhDKOoP8c2PQF5dGVgFAQ/edit?usp=sharing
+- https://docs.google.com/presentation/d/1-6zSTn_ix7OrhJ4AB8IXF7PtmfsuOJxqMRXe83LNAr4/edit?usp=sharing
+- https://docs.google.com/presentation/d/12S15LbuNm0JT2jOF1GbmjWWyJraeVOmGWLUnoF7iZVU/edit?usp=sharing
