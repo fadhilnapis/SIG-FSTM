@@ -40,13 +40,15 @@
 Feel free to choose any three above you are love to learn and master. We also provide module structure each of three 
 categories inside the folder.
 
-## ... So what is Open Source ?
+## ... So what is Open Source ? 
+*lead by [norFarhan](https://www.facebook.com/nefai15) along with Mr.Azrul*
 
 The term "Open Source" refers to something people can modify and share because its design is to publicly accessible. Open source is distributed with a license that allow other developer to modify it or add it. Some example of open source software are [Wordpress](https://wordpress.com/), [Ubuntu](https://www.ubuntu.com/), [MySQL](http://dev.mysql.com/) and many more.
 
 [Here](https://youtu.be/a8fHgx9mE5U) some animated explanation about Open Source.
 
-## ... What about Developer?
+## ... What about Developer? 
+*lead by Fadhil along with [Mr.Khirul](http://blog.kerul.net/)*
 
 There will be two types of projects we are working on soon, web and mobile app. 
 Anyone who interested to make mobile app development using 
@@ -61,7 +63,8 @@ The back end of a website consists of a server, an application, and a database. 
 the technology that powers those components which, together, enable the user-facing side of the website to even exist in 
 the first place.
 
-## Information Security... ?
+## Information Security... ? 
+*lead by [Hazmirul](https://www.facebook.com/hazmirulafiq) along with [Mr.Ashraf](https://www.facebook.com/khairil.ashraf.7)*
 
 Information security is an interest module that focusing on security issues and learn about how it works and how to prevent 
 it. In this module, we exposing students about the basics of security guidelines. As the time goes by, we'll get 
@@ -85,7 +88,11 @@ which will test your skill and knowledge.
 
 ## SiG intro slide
 
-- https://docs.google.com/presentation/d/19xVpHT_zOSKJvF0I7yaFkFjstR8i4o1CEn9VH7dMYeQ/edit?usp=sharing
-- https://docs.google.com/presentation/d/1VKF3NNKgAJrj5di9husdVQDhDKOoP8c2PQF5dGVgFAQ/edit?usp=sharing
-- https://docs.google.com/presentation/d/1-6zSTn_ix7OrhJ4AB8IXF7PtmfsuOJxqMRXe83LNAr4/edit?usp=sharing
-- https://docs.google.com/presentation/d/12S15LbuNm0JT2jOF1GbmjWWyJraeVOmGWLUnoF7iZVU/edit?usp=sharing
+- general [intro](https://docs.google.com/presentation/d/19xVpHT_zOSKJvF0I7yaFkFjstR8i4o1CEn9VH7dMYeQ/edit?usp=sharing) to SiG
+- [Open Source](https://docs.google.com/presentation/d/1VKF3NNKgAJrj5di9husdVQDhDKOoP8c2PQF5dGVgFAQ/edit?usp=sharing)
+- [Information Security](https://docs.google.com/presentation/d/1-6zSTn_ix7OrhJ4AB8IXF7PtmfsuOJxqMRXe83LNAr4/edit?usp=sharing)
+- [Web/Mobile development](https://docs.google.com/presentation/d/12S15LbuNm0JT2jOF1GbmjWWyJraeVOmGWLUnoF7iZVU/edit?usp=sharing)
+
+## Slack for Desktop
+
+Download [here](https://slack.com/downloads)
