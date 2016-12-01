@@ -96,3 +96,7 @@ which will test your skill and knowledge.
 ## Slack for Desktop
 
 Download [here](https://slack.com/downloads)
+
+## Setting slack for push notification
+
+Setup [here](https://get.slack.help/hc/en-us/articles/201398457-Mobile-push-notifications) 
