@@ -48,17 +48,18 @@ public class SecondActivity extends AppCompatActivity {
 
         Cursor cursor = db.query(ContactDBHelper.TABLE_NAME, listContact, null, null, null, null, null);
 
-        ListView list = (ListView) findViewById(R.id.listContact);
-        SimpleCursorAdapter adapter = new SimpleCursorAdapter(this, R.layout.adapter, cursor, listContact,insert, 0);
+        final ListView list = (ListView) findViewById(R.id.listContact);
+        final SimpleCursorAdapter adapter = new SimpleCursorAdapter(this, R.layout.adapter, cursor, listContact,insert, 0);
         list.setAdapter(adapter);
 
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 db.delete(ContactDBHelper.TABLE_NAME,null,null);
+                list.removeAllViewsInLayout();
                 Toast.makeText(SecondActivity.this, "All item deleted!",
                         Toast.LENGTH_SHORT).show();
-                startActivity(new Intent(SecondActivity.this,MainActivity.class));
+//                startActivity(new Intent(SecondActivity.this,MainActivity.class));
             }
         });
     }
