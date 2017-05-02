@@ -46,7 +46,7 @@ if(isset($_SESSION['username'])){
 <html>
 
 <?php 
-include 'header.php';
+include 'inc/header.php';
 ?>
 
 <body>
@@ -213,10 +213,10 @@ include 'header.php';
         <canvas id="constellationel"></canvas>
     </div>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <script src="/js/Stats.js"></script>
-    <script src="/js/zepto.min.js"></script>
-    <script defer src="/js/material.min.js"></script>
-    <script src="/js/sig.js">
+    <script src="js/Stats.js"></script>
+    <script src="js/zepto.min.js"></script>
+    <script defer src="js/material.min.js"></script>
+    <script src="js/sig.js">
     </script>
 </body>
 
