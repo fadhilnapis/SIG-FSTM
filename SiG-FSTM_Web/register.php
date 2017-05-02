@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <?php 
-include 'header.php';
+include 'inc/header.php';
 ?>
 <body>
     <div class="container register">

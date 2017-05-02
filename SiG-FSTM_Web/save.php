@@ -1,6 +1,6 @@
 <?php
 
-include 'connect.php';
+include 'inc/connect.php';
 
 $fullname = $_POST['fullname'];
 $email = $_POST['email'];

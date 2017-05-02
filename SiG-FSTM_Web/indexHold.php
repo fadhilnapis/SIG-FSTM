@@ -46,7 +46,7 @@ if(isset($_SESSION['username'])){
 <html>
 
 <?php 
-include 'header.php';
+include 'inc/header.php';
 ?>
 
 <body>
